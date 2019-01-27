@@ -11,4 +11,4 @@ Meant to be a fun way to practice JS
 ## Contribution
 
 Contributions are welcome!
-Just fork, clone, and submit a P.
+Just fork, clone, and submit a PR.
