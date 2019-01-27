@@ -1,4 +1,4 @@
-const removeDuplicates = require("../katas/01-removeDuplicates");
+const removeDuplicates = require("../katas/03-removeDuplicates");
 
 describe("removeDuplicates takes any number of arguments and returns a single array without duplicates", () => {
   test("given (2, 33, 4, 2, 11, 33, 99, 11, 4, 5) returns the value of [2, 33, 4, 11, 99, 5]", () => {
