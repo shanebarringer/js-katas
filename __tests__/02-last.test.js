@@ -1,4 +1,4 @@
-const last = require("../katas/01-last");
+const last = require("../katas/02-last");
 
 describe("last() returns the last value", () => {
   test("given the array: [2, 4, 6, 8]) the return value is 8", () => {
